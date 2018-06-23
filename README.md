@@ -4,40 +4,41 @@
 
 A list of projects that I will try and create using different frameworks.
 
-1.  Ionic Framework
+## Ionic Framework
 
--   [x] Whatsapp Clone
-        [This is the github repo](https://github.com/newtonmunene99/)
+-   [x] Whatsapp Clone <br/>
+        [This is the github repo](https://github.com/newtonmunene99/ionic3-whatsappclone)
 -   [ ] Instagram Clone
 -   [ ] Facebook Clone
 -   [x] Personal Movie Database
--   [ ] Ecommerce App
+-   [x] Ecommerce App <br/>
+        [This is the github repo](https://github.com/newtonmunene99/ionic3-uzastuff-client)
 -   [ ] Todo App
 -   [ ] Job Seeker App
 -   [ ] Super Tutorials
 -   [ ] Image Gallery App
 -   [ ] Music Player App
 
-2.  Angular
+## Angular
 
 -   [ ] Ecommerce App CMS
 
-3.  Flutter
-4.  Node
+## Flutter
 
--   [x] Simple NodeJs Server
-        [This is the github repo](https://github.com/newtonmunene99/)
+## Node
+
+-   [x] Simple NodeJs Server <br/>
+        [This is the github repo](https://github.com/newtonmunene99/NodeJs_Server)
 -   [ ] Twitter Bot
--   [x] Mpesa Api Node Module
-        [This is the github repo](https://github.com/newtonmunene99/)
+-   [x] Mpesa Api Node Module <br/>
+        [This is the github repo](https://github.com/newtonmunene99/mpesa-api)
 
-5.  Stencil
-6.  Strapi
+## Stencil
+
+## Strapi
 
 | **Contributor** |
-
--
-
+<br/>
 | [NewtonMunene](https://github.com/newtonmunene99) |
 
 ## Contributing
@@ -50,5 +51,6 @@ A list of projects that I will try and create using different frameworks.
 4.  Commit your changes: `git commit -m 'Add some request'`
 5.  Push to the branch: `git push origin my-request`
 6.  Submit a pull request.
+7.  Or Just Open an Issue
 
 -   To Contribute to one of the projects you should follow the contributing guide on the respective project's repo
