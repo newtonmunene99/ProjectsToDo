@@ -18,6 +18,7 @@ A list of projects that I will try and create using different frameworks.
 -   [ ] Super Tutorials
 -   [ ] Image Gallery App
 -   [ ] Music Player App
+-   [ ] Medium Clone
 
 ## Angular
 
@@ -32,8 +33,11 @@ A list of projects that I will try and create using different frameworks.
 -   [ ] Twitter Bot
 -   [x] Mpesa Api Node Module <br/>
         [This is the github repo](https://github.com/newtonmunene99/mpesa-api)
+-   [ ] Chat App Server
 
 ## Stencil
+
+-   [ ] Live Chat Web Component.
 
 ## Strapi
 
