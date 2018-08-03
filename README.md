@@ -55,7 +55,7 @@ A list of projects that I will try and create using different frameworks.
 1.  Fork this repo then clone the forked repo
 2.  Create your request branch: `git checkout -b my-request`
 3.  Add your Request under one of the frameworks listed. I've only mastered those frameworks for now.
-4.  Commit your changes: `git commit -m 'Add some request'`
+4.  Commit your changes: `git commit -am "Add some request"`
 5.  Push to the branch: `git push origin my-request`
 6.  Submit a pull request.
 7.  Or Just Open an Issue
