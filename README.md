@@ -10,14 +10,13 @@ A list of projects that I will try and create using different frameworks.
         [This is the github repo](https://github.com/newtonmunene99/ionic3-whatsappclone)
 -   [ ] Instagram Clone
 -   [ ] Facebook Clone
--   [x] Personal Movie Database
+-   [x] Personal Movie Database <br/>
+        [Find it here](https://www.codester.com/items/7408/personal-movie-and-tv-database-ionic?ref=newtonmunenecodes)
 -   [x] Ecommerce App <br/>
         [This is the github repo](https://github.com/newtonmunene99/ionic3-uzastuff-client)
 -   [ ] Todo App
 -   [ ] Job Seeker App
--   [ ] Super Tutorials
--   [ ] Image Gallery App
--   [ ] Music Player App
+-   [ ] Ionic Super Tutorials
 -   [ ] Medium Clone
 
 ## Angular
@@ -30,14 +29,18 @@ A list of projects that I will try and create using different frameworks.
 
 -   [x] Simple NodeJs Server <br/>
         [This is the github repo](https://github.com/newtonmunene99/NodeJs_Server)
--   [ ] Twitter Bot
+-   [x] Twitter Bot <br/>
+        [This is the github repo](https://github.com/newtonmunene99/NodeTwitterBot)
 -   [x] Mpesa Api Node Module <br/>
         [This is the github repo](https://github.com/newtonmunene99/mpesa-api)
 -   [ ] Chat App Server
 
 ## Stencil
 
--   [ ] Live Chat Web Component.
+-   [x] Live Chat Web Component. <br/>
+        [This is the github repo](https://github.com/newtonmunene99/live-help)
+-   [x] Image Gallery Web Component. <br/>
+        [This is the github repo](https://github.com/newtonmunene99/img-gallery)
 
 ## Strapi
 
