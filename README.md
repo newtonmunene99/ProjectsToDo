@@ -8,7 +8,8 @@ A list of projects that I will try and create using different frameworks.
 
 -   [x] Whatsapp Clone <br/>
         [This is the github repo](https://github.com/newtonmunene99/ionic3-whatsappclone)
--   [ ] Instagram Clone
+-   [x] Instagram Clone <br/>
+        [This is the github repo](https://github.com/newtonmunene99/ionic3_instagramclone)
 -   [ ] Facebook Clone
 -   [x] Personal Movie Database <br/>
         [Find it here](https://www.codester.com/items/7408/personal-movie-and-tv-database-ionic?ref=newtonmunenecodes)
