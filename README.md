@@ -4,61 +4,39 @@
 
 A list of projects that I will try and create using different frameworks.
 
-## Ionic Framework
+## Languages/Frameworks/SDKs
 
--   [x] Whatsapp Clone <br/>
-        [This is the github repo](https://github.com/newtonmunene99/ionic3-whatsappclone)
--   [x] Instagram Clone <br/>
-        [This is the github repo](https://github.com/newtonmunene99/ionic3_instagramclone)
--   [ ] Facebook Clone
--   [x] Personal Movie Database <br/>
-        [Find it here](https://www.codester.com/items/7408/personal-movie-and-tv-database-ionic?ref=newtonmunenecodes)
--   [x] Ecommerce App <br/>
-        [This is the github repo](https://github.com/newtonmunene99/ionic3-uzastuff-client)
--   [ ] Todo App
--   [ ] Job Seeker App
--   [ ] Ionic Super Tutorials
--   [ ] Medium Clone
+### [Node Js]('https://nodejs.dev/')
 
-## Angular
+- [X] [Mpesa Api Wrapper]('https://github.com/newtonmunene99/mpesa-api')
+- [ ] Chat App Server
 
--   [ ] Ecommerce App CMS
+### [Flutter]('https://flutter.dev/')
 
-## Flutter
+- [X] [Todo App]('https://github.com/newtonmunene99/tasker')
 
-## Node
+### [Deno]('https://deno.land/')
 
--   [x] Simple NodeJs Server <br/>
-        [This is the github repo](https://github.com/newtonmunene99/NodeJs_Server)
--   [x] Twitter Bot <br/>
-        [This is the github repo](https://github.com/newtonmunene99/NodeTwitterBot)
--   [x] Mpesa Api Node Module <br/>
-        [This is the github repo](https://github.com/newtonmunene99/mpesa-api)
--   [ ] Chat App Server
+### [Stencil JS]('https://stenciljs.com/')
 
-## Stencil
 
--   [x] Live Chat Web Component. <br/>
-        [This is the github repo](https://github.com/newtonmunene99/live-help)
--   [x] Image Gallery Web Component. <br/>
-        [This is the github repo](https://github.com/newtonmunene99/img-gallery)
+- [x] [Live Chat Web Component]('https://github.com/newtonmunene99/live-help')
+- [x] [Image Gallery Web Component]('https://github.com/newtonmunene99/img-gallery')
 
-## Strapi
 
-| **Contributor** |
-<br/>
-| [NewtonMunene](https://github.com/newtonmunene99) |
+| **Contributors**                                   |
+| -------------------------------------------------- |
+| [Newton Munene](https://github.com/newtonmunene99) |
 
 ## Contributing
 
--   Is there a particular project anyone would like me to do?
+Is there a particular project anyone would like me to do?
 
-1.  Fork this repo then clone the forked repo
-2.  Create your request branch: `git checkout -b my-request`
-3.  Add your Request under one of the frameworks listed. I've only mastered those frameworks for now.
-4.  Commit your changes: `git commit -am "Add some request"`
-5.  Push to the branch: `git push origin my-request`
-6.  Submit a pull request.
-7.  Or Just Open an Issue
+1. Fork and clone the repo
+2. Create your request branch: `git checkout -b my-request`
+3. Add your Request under one of the frameworks listed
+4. Commit your changes: `git commit -am "Add some request"`
+5. Push to the branch: `git push origin my-request`
+6. Submit a pull request.
 
--   To Contribute to one of the projects you should follow the contributing guide on the respective project's repo
+To Contribute to one of the projects you should follow the contributing guide on the respective project's repo
